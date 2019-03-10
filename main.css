@@ -277,7 +277,7 @@ section.portfolio .swiper-button-next{
 
 section.message > ol{
   max-width: 700px;
-  margin: 0 auto;
+  margin: 18px auto;
   border-top: 1px solid #DDD;
 }
 section.message > ol > li{
