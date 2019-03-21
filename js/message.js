@@ -67,3 +67,20 @@
   controller.init(view, model)
 
 }.call()
+
+// // new构造函数
+// function Human(options) {
+//   this.name = options.name
+//   this.city = options.city
+
+// } // 构造函数结束
+
+// Human.prototype.species = 'Human'
+// Human.prototype.walk = function () { }
+// Human.prototype.useTools = function () { }
+
+// var human = new Human({ name: 'Frank', city: 'Hangzhou' })
+// var human2 = new Human({ name: 'Jack', city: 'Hangzhou' })
+
+
+
